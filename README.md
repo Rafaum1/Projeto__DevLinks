@@ -1,4 +1,4 @@
-# devlinks
+# Projeto - DevLinks
 ## Linguagens utilizadas
 - HTML
 - CSS
